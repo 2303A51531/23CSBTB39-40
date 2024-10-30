@@ -8,3 +8,4 @@
 7. [https://github.com/2303A51531/23CSBTB39-40/blob/main/AML_A6.ipynb]
 8. [https://github.com/2303A51531/23CSBTB39-40/blob/main/AIML___A7.ipynb]
 9. [https://github.com/2303A51531/23CSBTB39-40/blob/main/AIML_A8.ipynb]
+10. [https://github.com/2303A51531/23CSBTB39-40/blob/main/AIML_A9.ipynb]
